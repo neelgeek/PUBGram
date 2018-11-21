@@ -12,6 +12,9 @@
   "author": "Neel Bhave",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.4.1"
+    "dotenv": "^6.1.0",
+    "npm": "^6.4.1",
+    "pubg.js": "^3.7.2",
+    "telegraf": "^3.25.0"
   }
 }
